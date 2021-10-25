@@ -586,6 +586,20 @@ After training the model, we validate it, then register the model in your Azure 
 4. Select the `Anomaly Detection` notebook to open it.
 
    ![The Anomaly Detection notebook is highlighted.](media/databricks-anomaly-detection-notebook.png "Workspace Folder")
+   
+ >Note: Incase, if you are not able to see the **Anomaly Detection** notebook, follow the below mentioned steps:
+
+  1. Within your Azure Databricks service, select **Workspace**, select **Users**, select the dropdown to the right of your username, then select **Import**.
+
+     ![The Import link is highlighted in the Workspace.](media/databricks-import-link.png 'Workspace')
+
+  2. Keep **File** selected next to **Import from**, select or drag and drop the file `C:\MCW-Predictive-Maintenance-for-remote-field-devices-master\Hands-on     lab\Resources\Notebooks\Anomaly Detection.ipynb`, then select **Import**.
+
+     ![The file import form is displayed with the Anomaly Detection.ipynb file selected.](media/databricks-import.png 'Import Notebooks')
+
+  3. After importing, select your username. You will see a new notebook named `Anomaly Detection`.
+
+      ![The imported notebooks are displayed.](media/databricks-notebooks.png 'Imported notebooks')
 
 5. Before you can execute the cells in this notebook, you must first attach your Databricks cluster. Expand the dropdown at the top of the notebook where you see **Detached**. Select your lab cluster to attach it to the notebook. If it is not currently running, you will see an option to start the cluster.
 
