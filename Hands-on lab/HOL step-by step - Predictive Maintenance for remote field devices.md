@@ -595,9 +595,9 @@ After training the model, we validate it, then register the model in your Azure 
 
    - Keep **File** selected next to **Import from**, select or drag and drop the file `C:\MCW-Predictive-Maintenance-for-remote-field-devices-master\Hands-on     lab\Resources\Notebooks\Anomaly Detection.ipynb`, then select **Import**.
 
-     ![The file import form is displayed with the Anomaly Detection.ipynb file selected.](media/databricks-import.png 'Import Notebooks')
+    ![The file import form is displayed with the Anomaly Detection.ipynb file selected.](media/databricks-import.png 'Import Notebooks')
 
-    - After importing, select your username. You will see a new notebook named `Anomaly Detection`.
+   - After importing, select your username. You will see a new notebook named `Anomaly Detection`.
 
       ![The imported notebooks are displayed.](media/databricks-notebooks.png 'Imported notebooks')
 
