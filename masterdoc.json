@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Predictive Maintenance for remote field devices",
+    "Language": "English",
+    "Files": [
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Predictive-Maintenance-for-remote-field-devices/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Predictive%20Maintenance%20for%20remote%20field%20devices.md",
+        "Order": 1
+      }
+      
+    ]
+  }
+]
