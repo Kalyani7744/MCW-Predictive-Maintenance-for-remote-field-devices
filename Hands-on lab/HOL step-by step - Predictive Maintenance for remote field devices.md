@@ -589,15 +589,15 @@ After training the model, we validate it, then register the model in your Azure 
    
  >Note: Incase, if you are not able to see the **Anomaly Detection** notebook, follow the below mentioned steps:
 
-  1. Within your Azure Databricks service, select **Workspace**, select **Users**, select the dropdown to the right of your username, then select **Import**.
+   - Within your Azure Databricks service, select **Workspace**, select **Users**, select the dropdown to the right of your username, then select **Import**.
 
      ![The Import link is highlighted in the Workspace.](media/databricks-import-link.png 'Workspace')
 
-  2. Keep **File** selected next to **Import from**, select or drag and drop the file `C:\MCW-Predictive-Maintenance-for-remote-field-devices-master\Hands-on     lab\Resources\Notebooks\Anomaly Detection.ipynb`, then select **Import**.
+   - Keep **File** selected next to **Import from**, select or drag and drop the file `C:\MCW-Predictive-Maintenance-for-remote-field-devices-master\Hands-on     lab\Resources\Notebooks\Anomaly Detection.ipynb`, then select **Import**.
 
      ![The file import form is displayed with the Anomaly Detection.ipynb file selected.](media/databricks-import.png 'Import Notebooks')
 
-  3. After importing, select your username. You will see a new notebook named `Anomaly Detection`.
+    - After importing, select your username. You will see a new notebook named `Anomaly Detection`.
 
       ![The imported notebooks are displayed.](media/databricks-notebooks.png 'Imported notebooks')
 
